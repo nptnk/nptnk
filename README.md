@@ -6,3 +6,6 @@
 > C# <br />
 > Luau <br />
 > Html <br />
+
+# Socials
+> Discord, nptnk#0001 <br />
