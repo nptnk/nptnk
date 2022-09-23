@@ -3,11 +3,7 @@
 
 
 # nptnk
-(in order of most used)
-> C# <br />
-> Luau <br />
-> Html <br />
-> Rust <br />
+hi c:
 
 # Socials
 > Discord, nptnk#0001 <br />
